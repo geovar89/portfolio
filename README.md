@@ -3,7 +3,7 @@
 A responsive, accessible, dependency-light personal portfolio for product leadership, AI, digital mobility and FinTech.
 
 ## Structure
-
+ 
 ```text
 index.html                  Semantic content, metadata, inline product framework SVG
 assets/css/styles.css       Layout, components, responsive rules, print styles
